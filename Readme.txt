@@ -6,7 +6,7 @@ Codility is a webiste that helps to verify programmers' skills in problem-solvin
 
 - You can check the results of each exercise on the website with this URL:
 
-https://codility.com/demo/results/<Ticket ID>
+https://codility.com/demo/results/ <Ticket ID>
 
 For example,
 
