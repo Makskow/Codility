@@ -2,7 +2,7 @@ Codility is a webiste that helps to verify programmers' skills in problem-solvin
 
 - Each Lesson consists of several exercises
 
-- Each exercise file consists of 1) Ticket ID, 2) Code, 3) Description
+- Each exercise file consists of 1) Ticket ID 2) Code 3) Task Description
 
 - You can check the results of each exercise on the website with this URL:
 
